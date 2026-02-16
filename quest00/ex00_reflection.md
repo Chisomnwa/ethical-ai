@@ -29,4 +29,4 @@ Identify your current pattern:
 
 Write a short paragraph describing where you are today and what type of learner you want to become.
 
-    CUrrently, I am someone who uses AI To amplify my learning. When I get stuck on finding a solution to a problem, I ask it questions providing insights on what I have done before, then I ask it for guidance on what to do to move forward. I think that's what it means to use AI To amplify your learning.
+    Currently, I am someone who uses AI To amplify my learning. When I get stuck on finding a solution to a problem, I ask it questions providing insights on what I have done before, then I ask it for guidance on what to do to move forward. I think that's what it means to use AI To amplify your learning.

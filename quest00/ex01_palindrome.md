@@ -29,7 +29,7 @@ function is_palindrome(input_string):
     ## get half of length n
     nHalf = n/2
 
-    ## loop tloop from start of string to the middle
+    ## loop through from start of string to the middle
     For i from 0 to nHalf - 1
 
         # get index of character from opposite end
